@@ -5,3 +5,7 @@ secrets.py
 # python
 __pycache__
 .ipynb_checkpoints
+
+# other
+code-point-open
+code-point-open.zip
